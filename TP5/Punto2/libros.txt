@@ -1,0 +1,9 @@
+A104, Orgullo y Prejuicio, Jane Austen, Romance, 2010, 9563.99, A
+M324, El fin del mundo, Gabriel García Márquez, Novela, 2001, 35000.77, D
+A429, Sueños distantes, Isabel Allende, Fantasía, 2021, 5900.02, D
+A789, Pasión y destino, Jane Austen, Romance, 1999, 22.15, P
+T206, Magia oculta, J.R.R. Tolkien, Fantasía, 2010, 74.89, D
+C101, Don Quijote, Miguel de Cervantes, Novela,2011, 2000.50,A 
+M102, Cien Años de Soledad, Gabriel García Márquez, Novela, 2005,15000.00,P
+O103, Narnia, George Orwell, Distopía,1999,11400.75,D
+T105, El señor de los anillos, J.R.R. Tolkien, Fantasía, 2015, 21005.50,D
